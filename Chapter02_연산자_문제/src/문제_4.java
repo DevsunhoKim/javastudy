@@ -7,17 +7,17 @@ public class 문제_4 {
 		
 		int a = 3; 
 	     a = a + 1; 
-	     System.out.println(a); 
+	     System.out.println(a);  //4
 	     a += 1; 
-	     System.out.println(a);
+	     System.out.println(a); //5
 	     a -= 1; 
-	     System.out.println(a); 
+	     System.out.println(a); //4
 	     a *= 2;
-	     System.out.println(a); 
+	     System.out.println(a); //8
 	     a /= 2; 
-	     System.out.println(a); 
+	     System.out.println(a); //4
 	     a %= 2; 
-	     System.out.println(a);
+	     System.out.println(a); //0
 
 	}
 
