@@ -49,6 +49,7 @@ public class 문제8 {
 					System.out.println("비겼다.");
 					break;
 				}
+				
 		}
 		
 
